@@ -21,7 +21,8 @@
 ### :man_technologist: &nbsp;About Me :
 
 A <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-g-914a6012b/)
+
+-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-g-914a6012b/)
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=ataryan4561
