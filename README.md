@@ -25,7 +25,6 @@ A <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="3
 -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-g-914a6012b/)
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ataryan4561
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ataryan4561&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataryan4561)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataryan4561&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
